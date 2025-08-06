@@ -9,6 +9,6 @@ def main():
     predicted, accuracy = predict_labels(gmm, X, y)
 
     print(f"Accuracy (after label alignment): {accuracy:.2f}")
-
+#Fisier modificat
 if __name__ == "__main__":
     main()
