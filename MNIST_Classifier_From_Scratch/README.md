@@ -43,14 +43,15 @@ The implemented neural network achieves 94.82% accuracy on the MNIST test set, d
 
 Project Structure
 
-MNIST_Classifier_From_Scratch
-    --->model.py                 # Neural network architecture
-    ---> data_processor.py       # Data loading and preprocessing
-    --->trainer.py               # Training loop and evaluation
-    --->visualizer.py            # Results visualization
-    --->hyperparameter_tuner.py  # Random search implementation
-    --->main.py                  # Main execution script
-    --->requirements.txt         # Project dependencies
+## 📂 Project Structure
+
+- `model.py` – Neural network architecture  
+- `data_processor.py` – Data loading and preprocessing  
+- `trainer.py` – Training loop and evaluation  
+- `visualizer.py` – Results visualization  
+- `hyperparameter_tuner.py` – Random search implementation  
+- `main.py` – Main execution script  
+- `requirements.txt` – Project dependencies
 
 Installation
 
