@@ -45,7 +45,7 @@ Project Structure
 
 MNIST_Classifier_From_Scratch/
 --->model.py                 # Neural network architecture
----> data_processor.py        # Data loading and preprocessing
+---> data_processor.py       # Data loading and preprocessing
 --->trainer.py               # Training loop and evaluation
 --->visualizer.py            # Results visualization
 --->hyperparameter_tuner.py  # Random search implementation
